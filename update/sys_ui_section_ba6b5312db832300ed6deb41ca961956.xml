@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="New section" section_id="ba6b5312db832300ed6deb41ca961956" sys_domain="global" table="option" version="3" view="Self_service_view">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ratings.xml</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-19 13:29:30</sys_created_on>
+            <sys_id>be6b5312db832300ed6deb41ca96195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Ratings">a3340f6bd7111100158ba6859e610331</sys_ui_formatter>
+            <sys_ui_section caption="New section" display_value="New section" name="option" sys_domain="global" view="760b1fdedb432300ed6deb41ca961953">ba6b5312db832300ed6deb41ca961956</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-19 13:29:30</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New section</caption>
+            <header>false</header>
+            <name>option</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-19 13:29:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ba6b5312db832300ed6deb41ca961956</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New section</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_ba6b5312db832300ed6deb41ca961956</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-19 13:29:30</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Self service view" name="Self_service_view">760b1fdedb432300ed6deb41ca961953</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

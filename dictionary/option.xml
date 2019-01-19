@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="label" max_length="40" name="option" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="New choice" max_length="40" name="x_58872_needit_u_new_choice_2" type="string">
+            <choice/>
+        </element>
+        <element label="New integer" max_length="40" name="x_58872_needit_u_new_integer_1" type="integer"/>
+        <element label="New integer" max_length="40" name="x_58872_needit_u_new_integer_3" type="integer"/>
+    </element>
+</database>
